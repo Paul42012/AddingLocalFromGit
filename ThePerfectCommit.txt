@@ -1,1 +1,3 @@
 Hi! this is something added before the first commit
+this is after staging the file
+this is another after staging the file
